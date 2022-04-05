@@ -1,2 +1,2 @@
 # Brain_Tumor_Prediction_Model
-Brain_Tumor_Prediction
+Brain_Tumor_Prediction(MRI)
